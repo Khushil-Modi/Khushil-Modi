@@ -11,7 +11,9 @@ Currently, I'm pursuing MS in Software Engineering specialization in Data Scienc
 Technical Skills:- Java, J2EE, SpringBoot, Swing Framework, XML, Python & its libraries (Pandas, NumPy, Seaborn, Scikit Learn, TensorFlow, Keras), SQL, Probability, Statistics, Machine Learning algorithms, Exploratory Data Analysis, Data Mining, HTML, CSS, JavaScript, Android,Linux, Ubuntu.
 
 To know more about me or to connect, reach out 📫:
+
 <a href="https://www.linkedin.com/in/khushil-modi/">LinkedIn</a> 📇
+
 <a href="mailto:khushilmodi17@gmail.com">Email</a> 📧
 
 <!--
