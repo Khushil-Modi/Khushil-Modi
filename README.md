@@ -8,7 +8,7 @@ My background in Computer Software Engineering, Mathematics, and Machine Learnin
 
 Currently, I'm pursuing MS in Software Engineering specialization in Data Science at San Jose State University (SJSU). 
 
-Technical Skills:- Java, J2EE, SpringBoot, Swing Framework, XML, Python & its libraries (Pandas, NumPy, Seaborn, Scikit Learn, TensorFlow, Keras), SQL, Probability, Statistics, Machine Learning algorithms, Exploratory Data Analysis, Data Mining, HTML, CSS, JavaScript, Android,Linux, Ubuntu.
+Technical Skills:- Java, J2EE, SpringBoot, Swing Framework, XML, Python & its libraries (Pandas, NumPy, Seaborn, Scikit Learn, TensorFlow, Keras), SQL, Probability, Statistics, Machine Learning algorithms, Exploratory Data Analysis, Data Mining, HTML, CSS, JavaScript, Android, Linux, Ubuntu.
 
 To know more about me or to connect, reach out 📫 through the following :point_down::
 
